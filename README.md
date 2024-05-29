@@ -3,7 +3,6 @@
 <head>
   <meta charset=UTF-8>
   <meta name=="viewport" content="wodth=device-width, initial-scale=1.0">
-  <title>Document</title>
 </head>
 <body>
   <center>
@@ -17,4 +16,6 @@
 </body>
 
 </html>
+
+
 
